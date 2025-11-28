@@ -8,3 +8,7 @@ Computer Security and Cryptography. Thid tutorial projects is still under work i
 - https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/
 - https://www.freecodecamp.org/news/understanding-website-encryption/
 - https://www.freecodecamp.org/news/encryption-explained-in-plain-english/
+- https://www.geeksforgeeks.org/dsa/what-is-hashing/
+- https://www.geeksforgeeks.org/dsa/introduction-to-hashing-2/
+- https://www.geeksforgeeks.org/dsa/collision-resolution-techniques/
+
